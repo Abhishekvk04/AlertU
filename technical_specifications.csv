@@ -1,0 +1,9 @@
+Specification,Dlib Implementation,MediaPipe Implementation
+EAR Threshold,0.25,0.25
+Consecutive Frames,20 frames,20 frames
+Eye Landmarks (Dlib),12 points (6 per eye),N/A
+Eye Landmarks (MediaPipe),N/A,12 points (6 per eye)
+Face Detection Method,HOG + Linear SVM,BlazeFace
+Landmark Points,68 facial landmarks,468 facial landmarks
+Detection Confidence,N/A,0.5
+Tracking Confidence,N/A,0.5

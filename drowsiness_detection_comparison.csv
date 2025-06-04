@@ -1,0 +1,11 @@
+Feature,Dlib,MediaPipe,Best Use Case
+Installation Ease,Moderate (requires CMake),Easy (pip install),MediaPipe
+Performance (FPS),15-20 FPS,25-30 FPS,MediaPipe
+Accuracy,95-98%,92-96%,Dlib
+Resource Usage,Medium,Low,MediaPipe
+Setup Complexity,Complex (requires .dat file),Simple,MediaPipe
+Cross-platform,Good,Excellent,MediaPipe
+Model Size,99.7 MB,2.6 MB,MediaPipe
+Real-time Performance,Good,Excellent,MediaPipe
+Robustness,Excellent,Good,Dlib
+Documentation,Excellent,Good,Dlib

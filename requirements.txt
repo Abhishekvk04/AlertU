@@ -1,0 +1,7 @@
+opencv-python 
+numpy 
+scipy 
+pygame 
+dlib 
+mediapipe
+plotly
